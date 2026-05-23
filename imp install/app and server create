@@ -1,0 +1,30 @@
+step 1. node package manger application ko initilize garne
+kai install karna parta hai 
+
+first mai ya install kare
+npm init -y (ya terminall mai lekhai Aur ya direct package.json banjata hai)
+
+like 
+1. package.json
+2.app.js
+3. server.js
+4.routes.js (Aur ya npm init sai install huwa)
+
+Run commend -> node index.js
+ya
+npm run start
+
+2. next install in express
+npm install express entry (ya lekhai terminall mai Aur express install hoga)
+
+3.express.com google mai search kare
+step
+getting started -> HelloWorld -> click kare
+all code copy kare and new file bnaya like index.js vs code mai and paste kare 
+
+4. google mai search kare dot env (ya package hai)
+   npm i dotenv   (install kare terminall mai)
+   next
+   file create kare like .env 
+   (env ka matlab ek hidden setting file hai jo project ke secrets aur configuration rakhata hai)
+   use q hota hai (security ke liye code me password show nahi hota hai)
